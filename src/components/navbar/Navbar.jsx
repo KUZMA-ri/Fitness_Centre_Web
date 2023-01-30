@@ -1,11 +1,8 @@
 import React from 'react';
 import { useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
-
-// icons (https://react-icons.github.io/react-icons/)
 import { HiOutlineBars3BottomRight } from 'react-icons/hi2';
 import { MdOutlineClose } from 'react-icons/md';
-
 import { links } from '../../data';
 import Logo from '../../images/logo.png';
 import './navbar.css';

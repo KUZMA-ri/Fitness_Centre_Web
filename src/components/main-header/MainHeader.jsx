@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom';
 import Image from '../../images/main_header.png';
-
 import './mainHeader.css';
 
 const MainHeader = () => {

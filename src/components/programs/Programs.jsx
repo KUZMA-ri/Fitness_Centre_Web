@@ -1,9 +1,9 @@
 import { Link } from 'react-router-dom';
-import SectionHead from '../section-head/SectionHead';
 import { FaCrown } from 'react-icons/fa';
 import { AiFillCaretRight } from 'react-icons/ai';
 import { programs } from '../../data';
 import Card from '../../UI/card/Card';
+import SectionHead from '../section-head/SectionHead';
 import './programs.css';
 
 const Programs = () => {

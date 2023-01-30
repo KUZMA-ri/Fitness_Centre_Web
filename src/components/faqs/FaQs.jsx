@@ -1,8 +1,8 @@
-import './faqs.css';
-import SectionHead from '../../components/section-head/SectionHead';
 import { FaQuestion } from 'react-icons/fa';
 import { faqs } from '../../data';
+import SectionHead from '../../components/section-head/SectionHead';
 import FaQ from './FaQ';
+import './faqs.css';
 
 const FaQs = () => {
     return (

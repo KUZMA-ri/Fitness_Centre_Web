@@ -1,10 +1,10 @@
 import { useState } from 'react';
-import './testimonials.css';
-import SectionHead from '../../components/section-head/SectionHead';
-import Card from '../../UI/card/Card'; 
 import { ImQuotesLeft } from 'react-icons/im';
 import { IoIosArrowDropleftCircle, IoIosArrowDroprightCircle } from 'react-icons/io';
 import {testimonials } from '../../data';
+import SectionHead from '../../components/section-head/SectionHead';
+import Card from '../../UI/card/Card'; 
+import './testimonials.css';
 
 const Testimonials = () => {
     const [index, setIndex] = useState(0);

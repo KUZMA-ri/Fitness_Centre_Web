@@ -1,9 +1,9 @@
-import './values.css';
-import Image from '../../images/values.jpg';
-import SectionHead from '../section-head/SectionHead';
 import { GiCutDiamond } from 'react-icons/gi';
 import {values} from '../../data';
 import Card from '../../UI/card/Card';
+import Image from '../../images/values.jpg';
+import SectionHead from '../section-head/SectionHead';
+import './values.css';
 
 
 const Values = () => {

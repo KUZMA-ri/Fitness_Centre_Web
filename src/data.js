@@ -285,7 +285,7 @@ export const trainers = [
     {
         id: 2,
         image: Trainer2,
-        name: 'Daniel vinyo',
+        name: 'Daniel Vinyo',
         job: 'Speed Trainer',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
